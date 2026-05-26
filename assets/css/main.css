@@ -456,7 +456,7 @@ p {
 }
 
 .navbar-brand img {
-  max-width: 180px;
+  max-width: 130px;
 }
 
 .navbar-toggler {
@@ -774,7 +774,7 @@ p {
 }
 
 .client-logo-section .client-logo-wrapper .single-logo {
-  width: 180px;
+  width: 130px;
   margin: 10px;
   opacity: .4;
   transition: all 0.3s ease-out 0s;
@@ -782,7 +782,7 @@ p {
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .client-logo-section .client-logo-wrapper .single-logo {
-    width: 160px;
+    width: 120px;
   }
 }
 
