@@ -402,6 +402,7 @@ p {
   top: 0;
   left: 0;
   width: 100%;
+  background-color: #fff;
   z-index: 99;
   transition: all 0.3s ease-out 0s;
 }
@@ -518,7 +519,7 @@ p {
 .navbar-nav .nav-item a {
   font-size: 18px;
   font-weight: 400;
-  color: #fff;
+  color: #000;
   transition: all 0.3s ease-out 0s;
   padding: 10px 0;
   position: relative;
